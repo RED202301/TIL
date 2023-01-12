@@ -1,4 +1,4 @@
-# 첫 Github
+# GitHub Intro
 
 ## README 생성
 
@@ -7,7 +7,5 @@
 - git repo 생성
 
 git commit
-
-
 
 ## 새로운 수정 사항
