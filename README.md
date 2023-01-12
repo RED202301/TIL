@@ -6,4 +6,4 @@
 
 - git repo 생성
 
-
+git commit
